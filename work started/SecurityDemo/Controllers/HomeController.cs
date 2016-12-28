@@ -9,6 +9,7 @@ namespace SecurityDemo.Controllers
     //[Authorize(Roles = "superadmin")]//[Authorize(user = "superadmin")]
     public class HomeController : Controller
     {
+        //yogesh till 4 pm
         public ActionResult Index()
         {
             return View();
