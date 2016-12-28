@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityDemo", "SecurityDemo\SecurityDemo.csproj", "{75DF0F3F-452D-4D41-81BC-5E3A657AE537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityDemo.Tests", "SecurityDemo.Tests\SecurityDemo.Tests.csproj", "{1F5A5C26-E4F8-4FDB-8ADB-9E88B9AFA69E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75DF0F3F-452D-4D41-81BC-5E3A657AE537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75DF0F3F-452D-4D41-81BC-5E3A657AE537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75DF0F3F-452D-4D41-81BC-5E3A657AE537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75DF0F3F-452D-4D41-81BC-5E3A657AE537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5A5C26-E4F8-4FDB-8ADB-9E88B9AFA69E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5A5C26-E4F8-4FDB-8ADB-9E88B9AFA69E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5A5C26-E4F8-4FDB-8ADB-9E88B9AFA69E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5A5C26-E4F8-4FDB-8ADB-9E88B9AFA69E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
